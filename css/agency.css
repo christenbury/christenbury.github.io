@@ -881,5 +881,6 @@ body {
 #contact > div > div:nth-child(2) > div > p {
     color: #ffffff;   
 }
-
+#contact > div > div:nth-child(1) > div > h3 {
+    color: #ffffff;
 }
