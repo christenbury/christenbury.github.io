@@ -871,3 +871,12 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #2a40a0;
 }
+
+
+/*CUSTOMIZATIONS*/
+#contact > div > div:nth-child(2) > div > p > a, 
+#contact > div > div:nth-child(2) > div > p {
+    color: #ffffff;   
+}
+
+}
